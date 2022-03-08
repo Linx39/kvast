@@ -72,7 +72,7 @@ body {
     color: white;
     background-image: url('../img/wheat-back.jpg');
     background-repeat: no-repeat;
-    background-position: center -250px; 
+    background-position: bottom; /*center -250px; */
     background-size: cover;
 }
 .header-top {   
