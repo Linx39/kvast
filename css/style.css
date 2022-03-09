@@ -171,7 +171,7 @@ body {
 
 .item-btn-more {
     border: 2px solid #844802;
-    color: #844802;
+    color: green;
     background-color: white;
     margin-left: 34px;
 }
@@ -179,7 +179,7 @@ body {
 .item-btn-buy {
     border: 2px solid #844802;
     color: white;
-    background-color: #844802;
+    background-color: green;
     margin-left: 5px;
 }
 
