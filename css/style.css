@@ -123,6 +123,7 @@ body {
     text-transform: uppercase;
     margin-top: 15px;
     padding-left: 34px;
+    color: red;
 }
 
 .item-parameter {
